@@ -121,6 +121,7 @@ pnordboj
 - [Hemant Lohar] (https://github.com/Hemant-Lohar)
 - [Soubhik Maji](https://github.com/majisoubhik01)
 - [Jisan-mia](https://github.com/Jisan-mia)
+- [Tsokko](https://github.com/Tsokko)
 - [Gideon Opoku](https://github.com/nana562)
 - [wfrsk](hhpts://github.com/wfrsk)
 - [Khalid-Hasan](https://github.com/khalidx3)
